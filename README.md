@@ -253,7 +253,9 @@ for the Android Platform](/Media/csa13.pdf)
 
 ![](https://github-readme-stats.vercel.app/api?username=dcrreynolds&theme=onedark&count_private=true&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcrreynolds&theme=onedark&show_icons=true)
 </div>
-<br/>
-<br/>
-<br/>
+
+<div align="center">
+    <img src="../main/Media/azure-administrator-associate-600x600.png" width="200" height="200" />
+    <img src="../main/Media/CERT-Expert-DevOps-Engineer-600x600.png" width="200" height="200" />
+</div>
 
