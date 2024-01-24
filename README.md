@@ -39,7 +39,7 @@
 
 One of my favorite past times is to take existing technology and ask it to solve problems it was not meant to solve. This GitHub ReadMe is simply asking the question, can Markdown be used to visually tell a story? Can you use it to play a video game? Will it make you want to pull your hair out (yes)?
 
-So, this is an attempt to use Markdown to tell the story of me as a developer in Markdown with a more visual and story telling approach.
+So, this is an attempt to use Markdown to tell the story of me as a developer in Markdown with a more visual and storytelling approach.
 
 - [How does this work?](#How-does-this-work)
 - [Lets get to the story already!](#It-Begins)
@@ -118,7 +118,7 @@ Pretty simple really, each “scene” is made individually then stitched togeth
 
 The first code I ever wrote was the worlds loneliest web site. A small PHP page that was a simple chat room that I built following a guide. Without a way to host the site, nobody but me could ever see it.
 
-After that I took some AP CS classes in high school and learned about OOP in Java. After a brief stint studying the wrong major at the wrong school I went to Texas State University for a CS degree and got a BS.
+After that I took some AP CS classes in high school and learned about OOP in Java. After a brief stint studying the wrong major at the wrong school, I went to Texas State University for a CS degree and got a BS.
 
 - [Did you work on anything interesting at school?](#Undergrad-Research-and-Work)
 - [Get on to Microsoft!](#Microsoft)
@@ -189,7 +189,7 @@ The same week of my graduation I flew to Seattle to interview with Microsoft, an
     <img src="../main/Media/Trex.jpg" width="475" height="315" />
 </div>
 
-I joined Microsoft as a Consultant in early 2013. With a developer background who primarily used Linux, my first project was to use [SCCM](https://docs.microsoft.com/en-us/mem/configmgr/core/understand/what-happened-to-sccm) to migrate a medium sized bank from Windows XP to Windows 7, a natural next step… In reality it was an amazing move. Due to this project and a few other Windows deployment projects I learned a ton about Infrastructure.
+I joined Microsoft as a Consultant in early 2013. With a developer background who primarily used Linux, my first project was to use [SCCM](https://docs.microsoft.com/en-us/mem/configmgr/core/understand/what-happened-to-sccm) to migrate a medium sized bank from Windows XP to Windows 7, a natural next step… In reality it was an amazing move. Due to this project and a few other Windows deployment projects, I learned a ton about Infrastructure.
 
 With my dev background and new infra knowledge I combined the 2 and started working with [PowerShell Desired State Configuration](https://docs.microsoft.com/en-us/powershell/dsc/getting-started/winGettingStarted?view=dsc-1.1). I added the original SqlScript resource, which to date, is the [highest number of issues ever opened for a commit I have made](https://github.com/dsccommunity/SqlServerDsc/issues?q=is%3Aissue+SqlScript). It makes me proud.
 
@@ -224,7 +224,7 @@ And that is where I am now! I have joined an internal Microsoft team as an SRE k
 
 <div align="center">
 
-[![](/Media/twitter.png)](https://twitter.com/DcrReynolds) [![](/Media/linkedin.png)](https://www.linkedin.com/in/david-reynolds-8588b855/)
+[![](/Media/linkedin.png)](https://www.linkedin.com/in/thebestdavid/)
 </div>
 
 <div align="center">
@@ -235,23 +235,27 @@ And that is where I am now! I have joined an internal Microsoft team as an SRE k
 Hi! 👋  
 I'm David
 
-I am an SRE at Microsoft and I like tech, climbing and gardening. 
+I am an SRE at Microsoft and I like tech, climbing and gardening.
 
 - BS in CS from Texas State University
 - Published research [Control Theoretic Adaptive Monitoring Tools
 for the Android Platform](/Media/csa13.pdf)
 - Published a charity Android app [Climbing Games](https://play.google.com/store/apps/details?id=net.ReynoldsDev.ClimbingGames&hl=en_US&gl=US)
-- Illistrated [Dotties Goes to Space](https://www.amazon.com/Dottie-Goes-Space-Casi-Reynolds-ebook/dp/B0925JPM5M) under a pseudonym (Just contact me for a free copy)
+- Illustrated [Dotties Goes to Space](https://www.amazon.com/Dottie-Goes-Space-Casi-Reynolds-ebook/dp/B0925JPM5M) under a pseudonym (Just contact me for a free copy)
 - Microsoft Consultant who worked on so so many projects
     - SCCM Windows Deployment
     - Desired State Configurations
     - Migrating Apps to Azure
     - Deploying Cloud Native Apps
     - Building Data Estates
+- Senior SRE at Microsoft
+    - SRE team lead
+    - Using Terraform to support half a dozen applications
+    - Keeping Microsoft safe
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=dcrreynolds&theme=onedark&count_private=true&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcrreynolds&theme=onedark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcrreynolds&theme=onedark&show_icons=true)
 </div>
 
 <div align="center">
