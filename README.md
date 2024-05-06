@@ -240,18 +240,25 @@ I am an SRE at Microsoft and I like tech, climbing and gardening.
 - BS in CS from Texas State University
 - Published research [Control Theoretic Adaptive Monitoring Tools
 for the Android Platform](/Media/csa13.pdf)
-- Published a charity Android app [Climbing Games](https://play.google.com/store/apps/details?id=net.ReynoldsDev.ClimbingGames&hl=en_US&gl=US)
-- Illustrated [Dotties Goes to Space](https://www.amazon.com/Dottie-Goes-Space-Casi-Reynolds-ebook/dp/B0925JPM5M) under a pseudonym (Just contact me for a free copy)
+
 - Microsoft Consultant who worked on so so many projects
     - SCCM Windows Deployment
     - Desired State Configurations
     - Migrating Apps to Azure
     - Deploying Cloud Native Apps
     - Building Data Estates
+
 - Senior SRE at Microsoft
     - SRE team lead
     - Using Terraform to support half a dozen applications
     - Keeping Microsoft safe
+
+- Fun Projects
+    - Fight anxiety with an [AI Worry Jar](https://github.com/dcrreynolds/AIWorryJar)
+    - Published a charity Android app "Climbing Games"
+    - Illustrated [Dotties Goes to Space](https://www.amazon.com/Dottie-Goes-Space-Casi-Reynolds-ebook/dp/B0925JPM5M) under a pseudonym. Get a [free copy.](https://github.com/dcrreynolds/DottieGoesToSpace/blob/main/DottieGoesToSpace.pdf)
+    - Made a [metric clock](https://github.com/dcrreynolds/MetriClock)
+    - Predict when you can see the moon through a window with [MoonWindow](https://github.com/dcrreynolds/MoonWindow)
 
 <div align="center">
 
